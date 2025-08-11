@@ -28,3 +28,8 @@ Homestead.json
 .env.production
 .phpactor.json
 auth.json
+/.idea/modules.xml
+/.idea/php.xml
+/.idea/Server-Frosh.iml
+/.idea/vcs.xml
+/.idea/workspace.xml
